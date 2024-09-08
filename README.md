@@ -1,0 +1,1 @@
+swiftc main.swift cfile.c -o myExecutable
